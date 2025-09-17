@@ -8,5 +8,5 @@ class Solution:
                 return [num_map[complement], i]
             # Otherwise, add the current number and its index to the map.
             num_map[num] = i
-        #hehe
+        #heheheh2
         
